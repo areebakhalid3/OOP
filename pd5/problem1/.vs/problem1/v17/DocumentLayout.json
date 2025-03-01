@@ -1,0 +1,832 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\oop\\PD\\pd5\\problem1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\dl\\sortdegreeprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:dl\\sortdegreeprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|d:\\oop\\pd\\pd5\\problem1\\dl\\sortstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:dl\\sortstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\dl\\sortsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:dl\\sortsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\ui\\degreeprogramoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:ui\\degreeprogramoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\ui\\studentoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:ui\\studentoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\ui\\subjectoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:ui\\subjectoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|problem1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.45892.rartemp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.21123.rartemp\\Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.40333.rartemp\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.39750.rartemp\\DegreeProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.38536.rartemp\\Degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.5259.rartemp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.464.rartemp\\Mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.47124.rartemp\\Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.44691.rartemp\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.41762.rartemp\\Degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.37471.rartemp\\SubjectList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.34821.rartemp\\StudentList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.30945.rartemp\\DegreeList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.29999.rartemp\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.29113.rartemp\\SubjectDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.28504.rartemp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.27798.rartemp\\DegreeProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.48741.rartemp\\SubjectDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.42693.rartemp\\StudentDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.31120.rartemp\\DegreeProgramDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.29392.rartemp\\Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.529.rartemp\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.48554.rartemp\\DegreeProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.30870.rartemp\\DegreeProgramUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.28632.rartemp\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.17093.rartemp\\StudentUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.12324.rartemp\\DegreeProgramDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.30.rartemp\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.31364.rartemp\\DegreeInputOutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.29030.rartemp\\SubjectInputOutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.3604.rartemp\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.14829.rartemp\\StudentInputOutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.5972.rartemp\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.40334.rartemp\\StudentInputOutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.22443.rartemp\\DegreeInputOutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.40828.rartemp\\SubjectInputOutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.39414.rartemp\\StudentInputOutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.37277.rartemp\\DegreeInputOutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.34369.rartemp\\StudentBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.33639.rartemp\\SubjectBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.32870.rartemp\\DegreeProgramBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.31412.rartemp\\DegreeProgramBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.30762.rartemp\\SubjectBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.29931.rartemp\\ListOfDegreePrograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.28496.rartemp\\ListOfSubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.28126.rartemp\\ListOfStudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.27149.rartemp\\ListOfDegreePrograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SortSubjects.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortSubjects.cs",
+              "RelativeDocumentMoniker": "DL\\SortSubjects.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortSubjects.cs",
+              "RelativeToolTip": "DL\\SortSubjects.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:24:08.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortStudents.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortStudents.cs",
+              "RelativeDocumentMoniker": "DL\\SortStudents.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortStudents.cs",
+              "RelativeToolTip": "DL\\SortStudents.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAmwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:24:49.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortDegreePrograms.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortDegreePrograms.cs",
+              "RelativeDocumentMoniker": "DL\\SortDegreePrograms.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortDegreePrograms.cs",
+              "RelativeToolTip": "DL\\SortDegreePrograms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:24:27.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\BL\\Subject.cs",
+              "RelativeDocumentMoniker": "BL\\Subject.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\BL\\Subject.cs",
+              "RelativeToolTip": "BL\\Subject.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:21:40.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\BL\\Student.cs",
+              "RelativeDocumentMoniker": "BL\\Student.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\BL\\Student.cs",
+              "RelativeToolTip": "BL\\Student.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAvwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:23:01.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DegreeProgram.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\BL\\DegreeProgram.cs",
+              "RelativeDocumentMoniker": "BL\\DegreeProgram.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\BL\\DegreeProgram.cs",
+              "RelativeToolTip": "BL\\DegreeProgram.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:22:34.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DegreeProgramOutput.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\UI\\DegreeProgramOutput.cs",
+              "RelativeDocumentMoniker": "UI\\DegreeProgramOutput.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\UI\\DegreeProgramOutput.cs",
+              "RelativeToolTip": "UI\\DegreeProgramOutput.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:26:03.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mainmenu.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\UI\\Mainmenu.cs",
+              "RelativeDocumentMoniker": "UI\\Mainmenu.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\UI\\Mainmenu.cs",
+              "RelativeToolTip": "UI\\Mainmenu.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:12:26.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentOutput.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\UI\\StudentOutput.cs",
+              "RelativeDocumentMoniker": "UI\\StudentOutput.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\UI\\StudentOutput.cs",
+              "RelativeToolTip": "UI\\StudentOutput.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:26:45.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubjectOutput.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\UI\\SubjectOutput.cs",
+              "RelativeDocumentMoniker": "UI\\SubjectOutput.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\UI\\SubjectOutput.cs",
+              "RelativeToolTip": "UI\\SubjectOutput.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:25:45.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswFwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:13:15.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "problem1",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\problem1.csproj",
+              "RelativeDocumentMoniker": "problem1.csproj",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\problem1.csproj*",
+              "RelativeToolTip": "problem1.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-28T21:08:07.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.45892.rartemp\\Program.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.45892.rartemp\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:14:09.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.21123.rartemp\\Subject.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.21123.rartemp\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:10:02.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "subject.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.40333.rartemp\\subject.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.40333.rartemp\\subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:06:34.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DegreeProgram.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.39750.rartemp\\DegreeProgram.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.39750.rartemp\\DegreeProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:06:28.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Degree.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.38536.rartemp\\Degree.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.38536.rartemp\\Degree.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:06:16.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.5259.rartemp\\Program.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.5259.rartemp\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:52:23.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mainmenu.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.464.rartemp\\Mainmenu.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.464.rartemp\\Mainmenu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:51:35.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.47124.rartemp\\Subject.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.47124.rartemp\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:51:02.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.44691.rartemp\\Student.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.44691.rartemp\\Student.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:50:37.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Degree.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.41762.rartemp\\Degree.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.41762.rartemp\\Degree.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:50:08.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubjectList.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.37471.rartemp\\SubjectList.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.37471.rartemp\\SubjectList.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:49:25.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.34821.rartemp\\StudentList.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.34821.rartemp\\StudentList.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:48:59.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DegreeList.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.30945.rartemp\\DegreeList.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.30945.rartemp\\DegreeList.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:48:20.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "subject.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.29999.rartemp\\subject.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.29999.rartemp\\subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:48:10.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SubjectDL.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.29113.rartemp\\SubjectDL.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.29113.rartemp\\SubjectDL.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:48:02.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.28504.rartemp\\student.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.28504.rartemp\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:47:55.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DegreeProgram.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.27798.rartemp\\DegreeProgram.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa8876.27798.rartemp\\DegreeProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:47:48.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SubjectDL.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.48741.rartemp\\SubjectDL.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.48741.rartemp\\SubjectDL.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:26:18.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentDL.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.42693.rartemp\\StudentDL.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.42693.rartemp\\StudentDL.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:25:17.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DegreeProgramDL.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.31120.rartemp\\DegreeProgramDL.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.31120.rartemp\\DegreeProgramDL.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:23:22.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.29392.rartemp\\Subject.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.29392.rartemp\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:23:04.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.529.rartemp\\Student.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.529.rartemp\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:18:16.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DegreeProgram.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.48554.rartemp\\DegreeProgram.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa15324.48554.rartemp\\DegreeProgram.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:17:56.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DegreeProgramUI.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.30870.rartemp\\DegreeProgramUI.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.30870.rartemp\\DegreeProgramUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:46:39.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.28632.rartemp\\Menu.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.28632.rartemp\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:46:16.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.17093.rartemp\\StudentUI.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.17093.rartemp\\StudentUI.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:44:21.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DegreeProgramDL.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.12324.rartemp\\DegreeProgramDL.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa19672.12324.rartemp\\DegreeProgramDL.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:43:33.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.30.rartemp\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.30.rartemp\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:34:51.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DegreeInputOutput.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.31364.rartemp\\DegreeInputOutput.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.31364.rartemp\\DegreeInputOutput.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:31:44.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SubjectInputOutput.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.29030.rartemp\\SubjectInputOutput.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.29030.rartemp\\SubjectInputOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:31:21.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.3604.rartemp\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.3604.rartemp\\MainMenu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:27:06.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StudentInputOutput.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.14829.rartemp\\StudentInputOutput.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.14829.rartemp\\StudentInputOutput.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:20:39.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StudentInputOutput.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.40334.rartemp\\StudentInputOutput.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.40334.rartemp\\StudentInputOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:16:34.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DegreeInputOutput.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.22443.rartemp\\DegreeInputOutput.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.22443.rartemp\\DegreeInputOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:13:35.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.5972.rartemp\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.5972.rartemp\\MainMenu.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:10:50.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SubjectInputOutput.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.40828.rartemp\\SubjectInputOutput.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.40828.rartemp\\SubjectInputOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:08:19.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StudentInputOutput.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.39414.rartemp\\StudentInputOutput.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.39414.rartemp\\StudentInputOutput.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:08:05.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DegreeInputOutput.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.37277.rartemp\\DegreeInputOutput.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.37277.rartemp\\DegreeInputOutput.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:07:43.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.34369.rartemp\\StudentBL.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.34369.rartemp\\StudentBL.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:07:14.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SubjectBL.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.33639.rartemp\\SubjectBL.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.33639.rartemp\\SubjectBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:07:07.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DegreeProgramBL.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.32870.rartemp\\DegreeProgramBL.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.32870.rartemp\\DegreeProgramBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:06:59.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DegreeProgramBL.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.31412.rartemp\\DegreeProgramBL.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.31412.rartemp\\DegreeProgramBL.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:06:44.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SubjectBL.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.30762.rartemp\\SubjectBL.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.30762.rartemp\\SubjectBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:06:38.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ListOfDegreePrograms.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.29931.rartemp\\ListOfDegreePrograms.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.29931.rartemp\\ListOfDegreePrograms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:06:30.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ListOfSubjects.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.28496.rartemp\\ListOfSubjects.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.28496.rartemp\\ListOfSubjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:06:15.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ListOfStudents.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.28126.rartemp\\ListOfStudents.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.28126.rartemp\\ListOfStudents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:06:12.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ListOfDegreePrograms.cs",
+              "DocumentMoniker": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.27149.rartemp\\ListOfDegreePrograms.cs",
+              "ToolTip": "C:\\Users\\cuty  computer\\AppData\\Local\\Temp\\Rar$DIa17040.27149.rartemp\\ListOfDegreePrograms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:06:02.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

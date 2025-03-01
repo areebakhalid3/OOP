@@ -1,0 +1,9 @@
+D:\oop\PD\pd5\challenge1\obj\Debug\problem2.csproj.AssemblyReference.cache
+D:\oop\PD\pd5\challenge1\obj\Debug\problem2.csproj.CoreCompileInputs.cache
+D:\oop\PD\pd5\problem2\obj\Debug\problem2.csproj.AssemblyReference.cache
+D:\oop\PD\pd5\problem2\obj\Debug\problem2.csproj.CoreCompileInputs.cache
+D:\oop\PD\pd5\problem2\bin\Debug\challenge1.exe.config
+D:\oop\PD\pd5\problem2\bin\Debug\challenge1.exe
+D:\oop\PD\pd5\problem2\bin\Debug\challenge1.pdb
+D:\oop\PD\pd5\problem2\obj\Debug\challenge1.exe
+D:\oop\PD\pd5\problem2\obj\Debug\challenge1.pdb

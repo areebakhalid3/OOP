@@ -1,0 +1,2 @@
+D:\oop\lab5\challenge1\obj\Debug\challenge1.csproj.AssemblyReference.cache
+D:\oop\lab5\challenge1\obj\Debug\challenge1.csproj.CoreCompileInputs.cache
