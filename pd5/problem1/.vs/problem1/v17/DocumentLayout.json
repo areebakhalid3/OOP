@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "D:\\oop\\PD\\pd5\\problem1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\ui\\degreeprogramoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:ui\\degreeprogramoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|d:\\oop\\pd\\pd5\\problem1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\dl\\sortdegreeprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:dl\\sortdegreeprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|d:\\oop\\pd\\pd5\\problem1\\dl\\sortstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\dl\\sortstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:dl\\sortstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\dl\\sortsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:dl\\sortsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\ui\\degreeprogramoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:ui\\degreeprogramoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|solutionrelative:ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2903820-0A5B-4D51-8B7E-9A415DB0AD03}|problem1.csproj|D:\\oop\\PD\\pd5\\problem1\\ui\\studentoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -198,24 +198,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SortSubjects.cs",
-              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortSubjects.cs",
-              "RelativeDocumentMoniker": "DL\\SortSubjects.cs",
-              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortSubjects.cs",
-              "RelativeToolTip": "DL\\SortSubjects.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAcwCcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T04:24:08.364Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SortStudents.cs",
               "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortStudents.cs",
               "RelativeDocumentMoniker": "DL\\SortStudents.cs",
@@ -223,12 +214,11 @@
               "RelativeToolTip": "DL\\SortStudents.cs",
               "ViewState": "AgIAAL0AAAAAAAAAAAAmwDsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T04:24:49.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T04:24:49.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SortDegreePrograms.cs",
               "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortDegreePrograms.cs",
               "RelativeDocumentMoniker": "DL\\SortDegreePrograms.cs",
@@ -236,25 +226,24 @@
               "RelativeToolTip": "DL\\SortDegreePrograms.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T04:24:27.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T04:24:27.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Subject.cs",
               "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\BL\\Subject.cs",
               "RelativeDocumentMoniker": "BL\\Subject.cs",
               "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\BL\\Subject.cs",
               "RelativeToolTip": "BL\\Subject.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:21:40.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\BL\\Student.cs",
               "RelativeDocumentMoniker": "BL\\Student.cs",
@@ -267,42 +256,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DegreeProgram.cs",
               "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\BL\\DegreeProgram.cs",
               "RelativeDocumentMoniker": "BL\\DegreeProgram.cs",
               "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\BL\\DegreeProgram.cs",
               "RelativeToolTip": "BL\\DegreeProgram.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:22:34.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "DegreeProgramOutput.cs",
               "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\UI\\DegreeProgramOutput.cs",
               "RelativeDocumentMoniker": "UI\\DegreeProgramOutput.cs",
               "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\UI\\DegreeProgramOutput.cs",
               "RelativeToolTip": "UI\\DegreeProgramOutput.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:26:03.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Mainmenu.cs",
               "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\UI\\Mainmenu.cs",
               "RelativeDocumentMoniker": "UI\\Mainmenu.cs",
               "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\UI\\Mainmenu.cs",
               "RelativeToolTip": "UI\\Mainmenu.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAArwCYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T14:12:26.13Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SortSubjects.cs",
+              "DocumentMoniker": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortSubjects.cs",
+              "RelativeDocumentMoniker": "DL\\SortSubjects.cs",
+              "ToolTip": "D:\\oop\\PD\\pd5\\problem1\\DL\\SortSubjects.cs",
+              "RelativeToolTip": "DL\\SortSubjects.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:24:08.364Z"
             },
             {
               "$type": "Document",
@@ -314,8 +315,7 @@
               "RelativeToolTip": "UI\\StudentOutput.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAYwDAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T04:26:45.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T04:26:45.694Z"
             },
             {
               "$type": "Document",
@@ -327,8 +327,7 @@
               "RelativeToolTip": "UI\\SubjectOutput.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T04:25:45.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T04:25:45.971Z"
             },
             {
               "$type": "Document",
@@ -340,8 +339,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAswFwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T04:13:15.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T04:13:15.692Z"
             },
             {
               "$type": "Document",

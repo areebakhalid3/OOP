@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\oop\\midproject\\oopproject\\signuplogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|d:\\oop\\midproject\\oopproject\\signuplogin\\ui\\resourceassignmentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:ui\\resourceassignmentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\ui\\resourcesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:ui\\resourcesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\ui\\adminmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:ui\\adminmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\dl\\resourcesdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:dl\\resourcesdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\dl\\resourceassignmentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:dl\\resourceassignmentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\bl\\resourceassignmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:bl\\resourceassignmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\bl\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:bl\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\ui\\usermenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:ui\\usermenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\ui\\headerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:ui\\headerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\bl\\resourcesbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:bl\\resourcesbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|D:\\oop\\midproject\\oopproject\\signuplogin\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D2DBB0-44E4-4583-A443-0CB79260E1C1}|signuplogin.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "resourcesDL.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\DL\\resourcesDL.cs",
+              "RelativeDocumentMoniker": "DL\\resourcesDL.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\DL\\resourcesDL.cs",
+              "RelativeToolTip": "DL\\resourcesDL.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:48:22.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "resourceassignmentBL.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\BL\\resourceassignmentBL.cs",
+              "RelativeDocumentMoniker": "BL\\resourceassignmentBL.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\BL\\resourceassignmentBL.cs",
+              "RelativeToolTip": "BL\\resourceassignmentBL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:31:52.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "resourceassignmentDL.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\DL\\resourceassignmentDL.cs",
+              "RelativeDocumentMoniker": "DL\\resourceassignmentDL.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\DL\\resourceassignmentDL.cs",
+              "RelativeToolTip": "DL\\resourceassignmentDL.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:58:36.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "resourceassignmentUI.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\resourceassignmentUI.cs",
+              "RelativeDocumentMoniker": "UI\\resourceassignmentUI.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\resourceassignmentUI.cs",
+              "RelativeToolTip": "UI\\resourceassignmentUI.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAnwEwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:01:17.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adminMenuUI.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\adminMenuUI.cs",
+              "RelativeDocumentMoniker": "UI\\adminMenuUI.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\adminMenuUI.cs",
+              "RelativeToolTip": "UI\\adminMenuUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:09:02.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwG0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:58:53.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "resourcesUI.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\resourcesUI.cs",
+              "RelativeDocumentMoniker": "UI\\resourcesUI.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\resourcesUI.cs",
+              "RelativeToolTip": "UI\\resourcesUI.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAwwJAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:11:40.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\BL\\SessionManager.cs",
+              "RelativeDocumentMoniker": "BL\\SessionManager.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\BL\\SessionManager.cs",
+              "RelativeToolTip": "BL\\SessionManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:27:09.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "userUI.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\userUI.cs",
+              "RelativeDocumentMoniker": "UI\\userUI.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\userUI.cs",
+              "RelativeToolTip": "UI\\userUI.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwIAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:28:43.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "userDL.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\DL\\userDL.cs",
+              "RelativeDocumentMoniker": "DL\\userDL.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\DL\\userDL.cs",
+              "RelativeToolTip": "DL\\userDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:28:59.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "userBL.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\BL\\userBL.cs",
+              "RelativeDocumentMoniker": "BL\\userBL.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\BL\\userBL.cs",
+              "RelativeToolTip": "BL\\userBL.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:27:11.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "userMenuUI.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\userMenuUI.cs",
+              "RelativeDocumentMoniker": "UI\\userMenuUI.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\userMenuUI.cs",
+              "RelativeToolTip": "UI\\userMenuUI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:08:30.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "headerUI.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\headerUI.cs",
+              "RelativeDocumentMoniker": "UI\\headerUI.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\UI\\headerUI.cs",
+              "RelativeToolTip": "UI\\headerUI.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:05:03.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "resourcesBL.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\BL\\resourcesBL.cs",
+              "RelativeDocumentMoniker": "BL\\resourcesBL.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\BL\\resourcesBL.cs",
+              "RelativeToolTip": "BL\\resourcesBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:05:28.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\oop\\midproject\\oopproject\\signuplogin\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "D:\\oop\\midproject\\oopproject\\signuplogin\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:42:02.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

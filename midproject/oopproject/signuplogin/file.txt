@@ -1,0 +1,8 @@
+abc@gmail.com,Abc@123,admin
+areeba@gmail.com,Areeba@123,admin
+qwerty@gmail.com,Qwerty123$%^&,user
+qaz@gmail.com,Qaz@123,user
+nashra@gmail.com,Nashra123$%^,admin
+aleeza@gmail.com,Aleeza1@3,user
+hajra@gmail.com,Hajra#$%123,user
+asd@gmail.com,Asd123$%^,admin
