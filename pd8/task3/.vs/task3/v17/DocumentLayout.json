@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\oop\\PD\\pd8\\task3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE32F825-5286-4378-B785-C948246B4F5B}|task3.csproj|D:\\oop\\PD\\pd8\\task3\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE32F825-5286-4378-B785-C948246B4F5B}|task3.csproj|solutionrelative:hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE32F825-5286-4378-B785-C948246B4F5B}|task3.csproj|D:\\oop\\PD\\pd8\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE32F825-5286-4378-B785-C948246B4F5B}|task3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE32F825-5286-4378-B785-C948246B4F5B}|task3.csproj|d:\\oop\\pd\\pd8\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE32F825-5286-4378-B785-C948246B4F5B}|task3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE32F825-5286-4378-B785-C948246B4F5B}|task3.csproj|d:\\oop\\pd\\pd8\\task3\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE32F825-5286-4378-B785-C948246B4F5B}|task3.csproj|solutionrelative:hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE32F825-5286-4378-B785-C948246B4F5B}|task3.csproj|D:\\oop\\PD\\pd8\\task3\\blackjackhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,26 +74,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\oop\\PD\\pd8\\task3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\oop\\PD\\pd8\\task3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAgwCwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T14:01:32.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Hand.cs",
               "DocumentMoniker": "D:\\oop\\PD\\pd8\\task3\\Hand.cs",
               "RelativeDocumentMoniker": "Hand.cs",
               "ToolTip": "D:\\oop\\PD\\pd8\\task3\\Hand.cs",
               "RelativeToolTip": "Hand.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T14:02:38.154Z",
               "EditorCaption": ""

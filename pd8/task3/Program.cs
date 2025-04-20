@@ -31,7 +31,7 @@ namespace task3
             while (true)
             {
                 Console.Write("Hit or Stand? (H/S): ");
-                var input = Console.ReadLine().Trim().ToUpper();
+                var input = Console.ReadLine().ToUpper();
 
                 if (input == "H")
                 {
