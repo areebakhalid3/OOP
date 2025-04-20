@@ -8,39 +8,48 @@ namespace task2
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            AbsoluteGradedCourse c1 = new AbsoluteGradedCourse("Software Engineering", 85);
-            AbsoluteGradedCourse c2 = new AbsoluteGradedCourse("Database Management", 75);
-            GradedCourse c3 = new GradedCourse("Programming Fundamentals", 10, true);
-            GradedCourse c4 = new GradedCourse("Algorithms and Data Structures", 7, true);
+            static void Main(string[] args)
+            {
+                Console.WriteLine("Enter the Project Name:");
+                string projectName = Console.ReadLine();
 
-            List<Course> softwarecourse = new List<Course>();
-            softwarecourse.Add(c1);
-            softwarecourse.Add(c2);
-            softwarecourse.Add(c3);
-            softwarecourse.Add(c4);
+                List<Course> courseList = new List<Course>();
 
-            Project project1 = new Project("Software Development Project", softwarecourse);
-            project1.Passed();
+                for (int i = 1; i <= 4; i++)
+                {
+                    Console.WriteLine($"Enter details for Course {i}:");
 
-            AbsoluteGradedCourse c5 = new AbsoluteGradedCourse("Research Methods", 70);
-            AbsoluteGradedCourse c6 = new AbsoluteGradedCourse("Literature Review", 80);
-            GradedCourse c7 = new GradedCourse("Statistical Analysis", 12, true);
-            GradedCourse c8 = new GradedCourse("Research Findings Presentation", 10, true);
+                    Console.Write("Course Name: ");
+                    string name = Console.ReadLine();
 
-            List<Course> researchcourse = new List<Course>();
-            researchcourse.Add(c5);
-            researchcourse.Add(c6);
-            researchcourse.Add(c7);
-            researchcourse.Add(c8);
+                    Console.Write("Enter '1' to input Marks or '2' to input Grade Point: ");
+                    string inp = Console.ReadLine();
 
-            Project project2 = new Project("Research Project", researchcourse);
-            project2.Passed();
+                    if (inp == "1")
+                    {
+                        Console.Write("Enter Marks (0-100): ");
+                        int marks = int.Parse(Console.ReadLine());
+                        courseList.Add(new AbsoluteGradedCourse(name, marks));
+                    }
+                    else if (inp == "2")
+                    {
+                        Console.Write("Enter Grade Point (0-12): ");
+                        int gp = int.Parse(Console.ReadLine());
+                        courseList.Add(new GradedCourse(name, gp, true));
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid input, skipping this course.");
+                    }
+                }
 
-            Console.WriteLine("Press any key to exit.");
-            Console.ReadKey();
+                Project project = new Project(projectName, courseList);
+                project.Passed();
+
+                Console.WriteLine("Press any key to exit.");
+                Console.ReadKey();
+            }
+
+
         }
-
     }
-}
